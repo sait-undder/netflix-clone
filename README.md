@@ -1,2 +1,2 @@
 # netflix-clone
-recriando um clone da netflix
+Criando um clone da netflix
